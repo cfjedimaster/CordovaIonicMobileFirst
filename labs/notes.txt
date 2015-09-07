@@ -1,0 +1,24 @@
+Cordova
+
+0) Install phonegap cli, phonegap dev app
+
+1) Just make an app and get it on the PhoneGap app
+
+2) Device
+Make an app, add the device plugin, print it to screen
+
+3) Camera
+
+4) Contacts
+
+5) Add bootstrap to make it nicer
+
+Ionic
+
+1) Just make an app and see it
+
+2) Convert Camera app
+
+3) Slidebox
+
+4) Slidebox 2

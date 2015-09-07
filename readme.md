@@ -1,0 +1,1 @@
+This repo contains demos, labs, and multiple copies of the presentation. The "preso" folders are a bit in flux so pardon the dust.
